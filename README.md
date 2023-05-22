@@ -5,6 +5,14 @@
 
 - 🔭 I’m currently studing on **42 Madrid**
 
+- 🌱 I’m currently learning **C, C++, python, HTML, CSS, JavaScript**
+
+- 🤝 I’m Cloud Architect **AWS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/iontmusik](https://github.com/iontmusik)
+
+- 📫 How to reach me **iontmusik@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ion-torre-052473264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ion-torre-052473264/" height="30" width="40" /></a>
